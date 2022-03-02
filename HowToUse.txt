@@ -1,0 +1,4 @@
+You will need to import keyboard, pyautogui and OpenCV (opencv-python) libraries - pip install [package_name] (in pycharm - install packages)
+First it will ask you to enter a string, these are the letters in Words On Stream game, then it will automatically focus on twitch chat (if it can be seen on screen) and
+start typing these generated words. You can skip this by pressing enter.
+If you notice a "Fake" letter, just simply press the letter on your keyboard and the programm will remove words containing this letter.
